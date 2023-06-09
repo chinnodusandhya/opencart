@@ -1,0 +1,288 @@
+17:56:34.513 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********  starting TC_001_AccountRegistrationTest  ****** 
+17:56:34.600 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on my account link
+17:56:35.038 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on registerlink
+17:56:35.043 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing user details...
+17:56:35.977 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue button
+17:56:36.023 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+17:56:36.025 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********  finished TC_001_AccountRegistrationTest  ****** 
+18:28:51.539 [main] INFO  testCases.TC_001_AccountRegistrationTest - openig bowser
+18:28:51.686 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********  starting TC_001_AccountRegistrationTest  ****** 
+18:28:51.769 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on my account link
+18:28:52.111 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on registerlink
+18:28:52.114 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing user details...
+18:28:52.963 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue button
+18:28:53.010 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+18:28:53.012 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********  finished TC_001_AccountRegistrationTest  ****** 
+18:28:53.015 [main] INFO  testCases.TC_001_AccountRegistrationTest - closing browser
+18:33:10.084 [main] INFO  testCases.TC_001_AccountRegistrationTest - openig bowser
+18:33:10.228 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********  starting TC_001_AccountRegistrationTest  ****** 
+18:33:10.316 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on my account link
+18:33:10.729 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on registerlink
+18:33:10.732 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing user details...
+18:33:11.717 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue button
+18:33:11.756 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+18:33:11.757 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********  finished TC_001_AccountRegistrationTest  ****** 
+18:33:11.760 [main] INFO  testCases.TC_001_AccountRegistrationTest - closing browser
+18:33:46.458 [main] INFO  testCases.TC_001_AccountRegistrationTest - openig bowser
+18:33:46.590 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********  starting TC_001_AccountRegistrationTest  ****** 
+18:33:46.642 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on my account link
+18:33:47.224 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on registerlink
+18:33:47.228 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing user details...
+18:33:48.055 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue button
+18:33:48.100 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+18:33:48.101 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********  finished TC_001_AccountRegistrationTest  ****** 
+18:33:48.102 [main] INFO  testCases.TC_001_AccountRegistrationTest - closing browser
+18:43:06.479 [main] INFO  testCases.TC_001_AccountRegistrationTest - opening in chrome browser
+18:43:15.741 [main] INFO  testCases.TC_001_AccountRegistrationTest - openig bowser
+18:43:15.886 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********  starting TC_001_AccountRegistrationTest  ****** 
+18:43:16.116 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on my account link
+18:43:16.721 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on registerlink
+18:43:16.725 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing user details...
+18:43:17.571 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue button
+18:43:17.612 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+18:43:17.614 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********  finished TC_001_AccountRegistrationTest  ****** 
+18:43:17.617 [main] INFO  testCases.TC_001_AccountRegistrationTest - closing browser
+18:43:17.767 [main] INFO  testCases.TC_001_AccountRegistrationTest - opening in edge browser
+18:43:23.419 [main] INFO  testCases.TC_001_AccountRegistrationTest - openig bowser
+18:43:23.542 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********  starting TC_001_AccountRegistrationTest  ****** 
+18:43:23.657 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on my account link
+18:43:24.755 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on registerlink
+18:43:24.757 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing user details...
+18:43:25.810 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue button
+18:43:25.857 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+18:43:25.857 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********  finished TC_001_AccountRegistrationTest  ****** 
+18:43:25.858 [main] INFO  testCases.TC_001_AccountRegistrationTest - closing browser
+19:23:52.217 [main] INFO  testCases.TC_001_AccountRegistrationTest - opening in chrome browser
+19:25:29.159 [main] INFO  testCases.TC_001_AccountRegistrationTest - opening in chrome browser
+19:25:35.262 [main] INFO  testCases.TC_001_AccountRegistrationTest - openig bowser
+19:25:35.401 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********  starting TC_001_AccountRegistrationTest  ****** 
+19:25:35.528 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on my account link
+19:25:36.031 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on registerlink
+19:25:36.035 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing user details...
+19:25:37.074 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue button
+19:25:37.119 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+19:25:37.121 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********  finished TC_001_AccountRegistrationTest  ****** 
+19:25:37.124 [main] INFO  testCases.TC_001_AccountRegistrationTest - closing browser
+23:55:10.440 [main] INFO  testCases.TC_001_AccountRegistrationTest - opening in chrome browser
+23:55:25.695 [main] INFO  testCases.TC_001_AccountRegistrationTest - openig bowser
+23:55:25.832 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********  starting TC_001_AccountRegistrationTest  ****** 
+23:55:25.926 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on my account link
+23:55:27.391 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on registerlink
+23:55:27.393 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing user details...
+23:55:28.269 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue button
+23:55:28.315 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+23:55:28.317 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********  finished TC_001_AccountRegistrationTest  ****** 
+23:55:28.320 [main] INFO  testCases.TC_001_AccountRegistrationTest - closing browser
+08:22:50.501 [main] INFO  testCases.TC_001_AccountRegistrationTest - opening in chrome browser
+08:23:04.299 [main] INFO  testCases.TC_001_AccountRegistrationTest - openig bowser
+08:23:04.495 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********  starting TC_001_AccountRegistrationTest  ****** 
+08:23:04.690 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on my account link
+08:23:05.363 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on registerlink
+08:23:05.371 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing user details...
+08:23:07.183 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue button
+08:23:07.302 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+08:23:07.309 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********  finished TC_001_AccountRegistrationTest  ****** 
+08:23:07.338 [main] INFO  testCases.TC_001_AccountRegistrationTest - closing browser
+11:08:52.888 [main] INFO  testCases.TC_001_AccountRegistrationTest - opening in chrome browser
+11:09:05.779 [main] INFO  testCases.TC_001_AccountRegistrationTest - openig bowser
+11:09:05.906 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********  starting TC_001_AccountRegistrationTest  ****** 
+11:09:06.000 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on my account link
+11:09:06.628 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on registerlink
+11:09:06.631 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing user details...
+11:09:06.872 [main] INFO  testCases.TC_001_AccountRegistrationTest - closing browser
+14:59:45.464 [main] INFO  testCases.TC_001_AccountRegistrationTest - opening in chrome browser
+14:59:57.281 [main] INFO  testCases.TC_001_AccountRegistrationTest - openig bowser
+14:59:57.426 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********  starting TC_001_AccountRegistrationTest  ****** 
+14:59:57.530 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on my account link
+14:59:57.952 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on registerlink
+14:59:57.954 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing user details...
+14:59:58.806 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue button
+14:59:58.850 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+14:59:58.852 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********  finished TC_001_AccountRegistrationTest  ****** 
+14:59:58.866 [main] INFO  testCases.TC_001_AccountRegistrationTest - closing browser
+14:59:58.997 [main] INFO  testCases.TC_002_LoginTest - opening in chrome browser
+15:00:03.537 [main] INFO  testCases.TC_002_LoginTest - openig bowser
+15:00:03.660 [main] INFO  testCases.TC_002_LoginTest - starting TC_002_LoginTest .....
+15:00:04.653 [main] INFO  testCases.TC_002_LoginTest - finished TC_002_LoginTest .....
+15:00:04.655 [main] INFO  testCases.TC_002_LoginTest - closing browser
+17:29:52.482 [main] INFO  testCases.TC_003_LoginDataDrivenTest - opening in chrome browser
+17:30:02.760 [main] INFO  testCases.TC_003_LoginDataDrivenTest - openig bowser
+17:30:04.058 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Starting TC_003_LoginDataDrivenTest  ...
+17:30:17.129 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Starting TC_003_LoginDataDrivenTest  ...
+17:30:27.383 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Starting TC_003_LoginDataDrivenTest  ...
+17:30:37.692 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Starting TC_003_LoginDataDrivenTest  ...
+17:30:47.936 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Starting TC_003_LoginDataDrivenTest  ...
+17:30:58.195 [main] INFO  testCases.TC_003_LoginDataDrivenTest - closing browser
+17:32:44.183 [main] INFO  testCases.TC_003_LoginDataDrivenTest - opening in chrome browser
+17:32:51.967 [main] INFO  testCases.TC_003_LoginDataDrivenTest - openig bowser
+17:32:53.225 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Starting TC_003_LoginDataDrivenTest  ...
+17:32:56.169 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Starting TC_003_LoginDataDrivenTest  ...
+17:33:06.822 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Starting TC_003_LoginDataDrivenTest  ...
+17:33:06.825 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Starting TC_003_LoginDataDrivenTest  ...
+17:33:21.487 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Starting TC_003_LoginDataDrivenTest  ...
+17:33:21.489 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Starting TC_003_LoginDataDrivenTest  ...
+17:33:33.141 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Starting TC_003_LoginDataDrivenTest  ...
+17:33:33.143 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Starting TC_003_LoginDataDrivenTest  ...
+17:33:34.967 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Starting TC_003_LoginDataDrivenTest  ...
+17:33:34.974 [main] INFO  testCases.TC_003_LoginDataDrivenTest - closing browser
+17:39:21.189 [main] INFO  testCases.TC_003_LoginDataDrivenTest - opening in chrome browser
+17:39:38.037 [main] INFO  testCases.TC_003_LoginDataDrivenTest - openig bowser
+17:39:39.344 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Starting TC_003_LoginDataDrivenTest  ...
+17:39:42.942 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Starting TC_003_LoginDataDrivenTest  ...
+17:39:42.969 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Starting TC_003_LoginDataDrivenTest  ...
+17:39:54.467 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Starting TC_003_LoginDataDrivenTest  ...
+17:39:54.472 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Starting TC_003_LoginDataDrivenTest  ...
+17:40:06.520 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Starting TC_003_LoginDataDrivenTest  ...
+17:40:06.522 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Starting TC_003_LoginDataDrivenTest  ...
+17:40:19.740 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Starting TC_003_LoginDataDrivenTest  ...
+17:40:19.743 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Starting TC_003_LoginDataDrivenTest  ...
+17:40:22.558 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Starting TC_003_LoginDataDrivenTest  ...
+17:40:22.571 [main] INFO  testCases.TC_003_LoginDataDrivenTest - closing browser
+17:41:30.751 [main] INFO  testCases.TC_003_LoginDataDrivenTest - opening in chrome browser
+17:41:46.380 [main] INFO  testCases.TC_003_LoginDataDrivenTest - openig bowser
+17:41:47.422 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Starting TC_003_LoginDataDrivenTest  ...
+17:41:50.677 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Starting TC_003_LoginDataDrivenTest  ...
+17:41:50.703 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Starting TC_003_LoginDataDrivenTest  ...
+17:42:02.101 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Starting TC_003_LoginDataDrivenTest  ...
+17:42:02.105 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Starting TC_003_LoginDataDrivenTest  ...
+17:42:13.798 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Starting TC_003_LoginDataDrivenTest  ...
+17:42:13.800 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Starting TC_003_LoginDataDrivenTest  ...
+17:42:24.761 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Starting TC_003_LoginDataDrivenTest  ...
+17:42:24.762 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Starting TC_003_LoginDataDrivenTest  ...
+17:42:29.737 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Starting TC_003_LoginDataDrivenTest  ...
+17:42:29.741 [main] INFO  testCases.TC_003_LoginDataDrivenTest - closing browser
+17:57:56.252 [main] INFO  testCases.TC_001_AccountRegistrationTest - opening in chrome browser
+17:58:09.089 [main] INFO  testCases.TC_001_AccountRegistrationTest - openig bowser
+17:58:09.231 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********  starting TC_001_AccountRegistrationTest  ****** 
+17:58:09.320 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on my account link
+17:58:10.286 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on registerlink
+17:58:10.288 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing user details...
+17:58:11.339 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue button
+17:58:11.388 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+17:58:11.389 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********  finished TC_001_AccountRegistrationTest  ****** 
+17:58:11.407 [main] INFO  testCases.TC_001_AccountRegistrationTest - closing browser
+17:58:11.731 [main] INFO  testCases.TC_002_LoginTest - opening in chrome browser
+17:58:24.754 [main] INFO  testCases.TC_002_LoginTest - openig bowser
+17:58:24.870 [main] INFO  testCases.TC_002_LoginTest - starting TC_002_LoginTest .....
+17:58:27.811 [main] INFO  testCases.TC_002_LoginTest - finished TC_002_LoginTest .....
+17:58:27.813 [main] INFO  testCases.TC_002_LoginTest - closing browser
+18:01:49.276 [main] INFO  testCases.TC_002_LoginTest - opening in chrome browser
+18:01:58.684 [main] INFO  testCases.TC_002_LoginTest - openig bowser
+18:01:58.824 [main] INFO  testCases.TC_002_LoginTest - starting TC_002_LoginTest .....
+18:01:59.822 [main] INFO  testCases.TC_002_LoginTest - finished TC_002_LoginTest .....
+18:01:59.836 [main] INFO  testCases.TC_002_LoginTest - closing browser
+18:02:49.492 [main] INFO  testCases.TC_001_AccountRegistrationTest - opening in chrome browser
+18:02:56.305 [main] INFO  testCases.TC_001_AccountRegistrationTest - openig bowser
+18:02:56.432 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********  starting TC_001_AccountRegistrationTest  ****** 
+18:02:56.508 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on my account link
+18:02:57.141 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on registerlink
+18:02:57.142 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing user details...
+18:02:58.480 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue button
+18:02:58.525 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+18:02:58.526 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********  finished TC_001_AccountRegistrationTest  ****** 
+18:02:58.537 [main] INFO  testCases.TC_001_AccountRegistrationTest - closing browser
+18:26:20.106 [main] INFO  testCases.TC_001_AccountRegistrationTest - opening in chrome browser
+18:26:30.645 [main] INFO  testCases.TC_001_AccountRegistrationTest - openig bowser
+18:26:30.785 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********  starting TC_001_AccountRegistrationTest  ****** 
+18:26:30.897 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on my account link
+18:26:31.898 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on registerlink
+18:26:31.901 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing user details...
+18:26:32.853 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue button
+18:26:32.896 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+18:26:32.897 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********  finished TC_001_AccountRegistrationTest  ****** 
+18:26:32.909 [main] INFO  testCases.TC_001_AccountRegistrationTest - closing browser
+18:26:33.179 [main] INFO  testCases.TC_002_LoginTest - opening in chrome browser
+18:26:49.654 [main] INFO  testCases.TC_002_LoginTest - openig bowser
+18:26:49.782 [main] INFO  testCases.TC_002_LoginTest - starting TC_002_LoginTest .....
+18:26:54.356 [main] INFO  testCases.TC_002_LoginTest - finished TC_002_LoginTest .....
+18:26:54.357 [main] INFO  testCases.TC_002_LoginTest - closing browser
+23:17:36.792 [main] INFO  testCases.TC_001_AccountRegistrationTest - opening in chrome browser
+23:17:46.471 [main] INFO  testCases.TC_001_AccountRegistrationTest - openig bowser
+23:17:46.621 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********  starting TC_001_AccountRegistrationTest  ****** 
+23:17:47.096 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on my account link
+23:17:47.466 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on registerlink
+23:17:47.470 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing user details...
+23:17:48.556 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue button
+23:17:48.610 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+23:17:48.613 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********  finished TC_001_AccountRegistrationTest  ****** 
+23:17:48.627 [main] INFO  testCases.TC_001_AccountRegistrationTest - closing browser
+23:17:48.938 [main] INFO  testCases.TC_002_LoginTest - opening in chrome browser
+23:17:55.547 [main] INFO  testCases.TC_002_LoginTest - openig bowser
+23:17:55.672 [main] INFO  testCases.TC_002_LoginTest - starting TC_002_LoginTest .....
+23:17:56.782 [main] INFO  testCases.TC_002_LoginTest - finished TC_002_LoginTest .....
+23:17:56.784 [main] INFO  testCases.TC_002_LoginTest - closing browser
+09:07:23.940 [main] INFO  testCases.TC_001_AccountRegistrationTest - opening in chrome browser
+09:07:34.516 [main] INFO  testCases.TC_001_AccountRegistrationTest - openig bowser
+09:07:34.658 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********  starting TC_001_AccountRegistrationTest  ****** 
+09:07:34.867 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on my account link
+09:07:35.210 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on registerlink
+09:07:35.214 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing user details...
+09:07:36.214 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue button
+09:07:36.264 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+09:07:36.266 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********  finished TC_001_AccountRegistrationTest  ****** 
+09:07:36.285 [main] INFO  testCases.TC_001_AccountRegistrationTest - closing browser
+09:07:36.588 [main] INFO  testCases.TC_002_LoginTest - opening in chrome browser
+09:07:38.760 [main] INFO  testCases.TC_002_LoginTest - openig bowser
+09:07:38.885 [main] INFO  testCases.TC_002_LoginTest - starting TC_002_LoginTest .....
+09:07:40.175 [main] INFO  testCases.TC_002_LoginTest - finished TC_002_LoginTest .....
+09:07:40.178 [main] INFO  testCases.TC_002_LoginTest - closing browser
+09:08:45.613 [main] INFO  testCases.TC_001_AccountRegistrationTest - opening in chrome browser
+09:08:49.510 [main] INFO  testCases.TC_001_AccountRegistrationTest - openig bowser
+09:08:49.646 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********  starting TC_001_AccountRegistrationTest  ****** 
+09:08:50.145 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on my account link
+09:08:50.514 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on registerlink
+09:08:50.517 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing user details...
+09:08:51.493 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue button
+09:08:51.543 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+09:08:51.545 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********  finished TC_001_AccountRegistrationTest  ****** 
+09:08:51.557 [main] INFO  testCases.TC_001_AccountRegistrationTest - closing browser
+09:08:51.794 [main] INFO  testCases.TC_002_LoginTest - opening in chrome browser
+09:08:54.966 [main] INFO  testCases.TC_002_LoginTest - openig bowser
+09:08:55.082 [main] INFO  testCases.TC_002_LoginTest - starting TC_002_LoginTest .....
+09:08:56.287 [main] INFO  testCases.TC_002_LoginTest - finished TC_002_LoginTest .....
+09:08:56.289 [main] INFO  testCases.TC_002_LoginTest - closing browser
+11:00:47.386 [main] INFO  testCases.TC_001_AccountRegistrationTest - opening in chrome browser
+11:00:54.203 [main] INFO  testCases.TC_001_AccountRegistrationTest - openig bowser
+11:00:54.326 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********  starting TC_001_AccountRegistrationTest  ****** 
+11:00:54.619 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on my account link
+11:00:55.185 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on registerlink
+11:00:55.188 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing user details...
+11:00:55.947 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue button
+11:00:56.000 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+11:00:56.002 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********  finished TC_001_AccountRegistrationTest  ****** 
+11:00:56.014 [main] INFO  testCases.TC_001_AccountRegistrationTest - closing browser
+11:00:56.204 [main] INFO  testCases.TC_002_LoginTest - opening in chrome browser
+11:00:58.168 [main] INFO  testCases.TC_002_LoginTest - openig bowser
+11:00:58.288 [main] INFO  testCases.TC_002_LoginTest - starting TC_002_LoginTest .....
+11:00:59.222 [main] INFO  testCases.TC_002_LoginTest - finished TC_002_LoginTest .....
+11:00:59.224 [main] INFO  testCases.TC_002_LoginTest - closing browser
+11:02:13.074 [main] INFO  testCases.TC_001_AccountRegistrationTest - opening in chrome browser
+11:02:16.803 [main] INFO  testCases.TC_001_AccountRegistrationTest - openig bowser
+11:02:16.931 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********  starting TC_001_AccountRegistrationTest  ****** 
+11:02:17.047 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on my account link
+11:02:17.326 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on registerlink
+11:02:17.331 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing user details...
+11:02:18.072 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue button
+11:02:18.114 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+11:02:18.115 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********  finished TC_001_AccountRegistrationTest  ****** 
+11:02:18.126 [main] INFO  testCases.TC_001_AccountRegistrationTest - closing browser
+11:02:18.319 [main] INFO  testCases.TC_002_LoginTest - opening in chrome browser
+11:02:21.589 [main] INFO  testCases.TC_002_LoginTest - openig bowser
+11:02:21.714 [main] INFO  testCases.TC_002_LoginTest - starting TC_002_LoginTest .....
+11:02:22.674 [main] INFO  testCases.TC_002_LoginTest - finished TC_002_LoginTest .....
+11:02:22.675 [main] INFO  testCases.TC_002_LoginTest - closing browser
+11:06:52.821 [main] INFO  testCases.TC_001_AccountRegistrationTest - opening in chrome browser
+11:06:58.356 [main] INFO  testCases.TC_001_AccountRegistrationTest - openig bowser
+11:06:58.493 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********  starting TC_001_AccountRegistrationTest  ****** 
+11:06:58.662 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on my account link
+11:06:59.728 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on registerlink
+11:06:59.731 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing user details...
+11:07:00.560 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue button
+11:07:00.602 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+11:07:00.604 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********  finished TC_001_AccountRegistrationTest  ****** 
+11:07:00.617 [main] INFO  testCases.TC_001_AccountRegistrationTest - closing browser
+11:07:00.851 [main] INFO  testCases.TC_002_LoginTest - opening in chrome browser
+11:07:03.634 [main] INFO  testCases.TC_002_LoginTest - openig bowser
+11:07:03.752 [main] INFO  testCases.TC_002_LoginTest - starting TC_002_LoginTest .....
+11:07:05.020 [main] INFO  testCases.TC_002_LoginTest - finished TC_002_LoginTest .....
+11:07:05.022 [main] INFO  testCases.TC_002_LoginTest - closing browser
